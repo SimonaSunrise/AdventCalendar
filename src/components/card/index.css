@@ -1,0 +1,69 @@
+@import url("https://fonts.googleapis.com/css2?family=Indie+Flower&family=Rubik+Scribble&display=swap");
+
+.Card_Closed,
+.Card_Open {
+  width: 155px;
+  height: 155px;
+  border: 2px solid #386641;
+  border-radius: 20px;
+  -webkit-box-shadow: 14px 17px 42px -16px #000000;
+  -moz-box-shadow: 14px 17px 42px -16px #000000;
+  -o-box-shadow: 14px 17px 42px -16px #000000;
+  box-shadow: 14px 17px 42px -16px #000000;
+  display: flex;
+  flex-direction: column;
+  transition: transform 1s;
+}
+.Card_Open:hover {
+  transform: scale(1.1);
+}
+
+.Box_Btn {
+  display: flex;
+  justify-content: center;
+}
+.Card_Closed button {
+  display: none;
+}
+
+.Card_Open {
+  background-image: url("https://img.freepik.com/free-photo/torn-open-package-with-bow_1101-366.jpg?w=1060&t=st=1704392647~exp=1704393247~hmac=7fad9d8fc1d85154b3b61e866d7dc64c0bf3f2b09f5067b7a24736ede2363b7c");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.Card_Open p {
+  display: none;
+}
+
+.Btn {
+  border-radius: 20px;
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: #dc3545;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+  font-family: "Indie Flower", cursive;
+  font-weight: bold;
+  letter-spacing: 3px;
+  margin-top: 100px;
+}
+
+.Btn a {
+  text-decoration: none;
+  color: #fff;
+}
+
+.Day {
+  display: flex;
+  justify-content: flex-end;
+  margin-right: 10px;
+  margin-top: 45px;
+}
+.Day p {
+  color: #fff;
+  -webkit-text-stroke: 1px grey;
+  font-size: 55px;
+}

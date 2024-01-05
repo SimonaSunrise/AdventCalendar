@@ -1,0 +1,207 @@
+.Card_Box {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 25px;
+}
+
+.Card_Background_1 {
+  background-image: url("https://img.freepik.com/free-vector/vector-illustration-merry-christmas-happy-new-year-background-seamless-banner-present_134830-1563.jpg?w=740&t=st=1704403709~exp=1704404309~hmac=835639bf2bba6bd39d6706853f2e9820d5a3b99a61ffce6fdd2619d28279d209");
+  border-radius: 20px;
+  transition: transform 1s;
+}
+.Card_Background_1:hover {
+  transform: scale(1.1);
+}
+
+.Card_Background_2 {
+  background-image: url("https://img.freepik.com/free-photo/close-up-beautifully-decorated-christmas-tree_23-2150830264.jpg?w=360&t=st=1704217724~exp=1704218324~hmac=f3224c9c2d18a13703bcebc1a9621e12813e69f4fa2ee5cacb2f34499cd70af3");
+  border-radius: 20px;
+  transition: transform 1s;
+}
+.Card_Background_2:hover {
+  transform: scale(1.1);
+}
+.Card_Background_3 {
+  background-image: url("https://img.freepik.com/free-vector/minimal-christmas-card-landscape-background-design_1048-19525.jpg?w=360&t=st=1704217968~exp=1704218568~hmac=a506d4403078218a3a2e6e0b96838ad8649b60d91445e2e30d46fbcdf9d5044f");
+  border-radius: 20px;
+  transition: transform 1s;
+}
+.Card_Background_3:hover {
+  transform: scale(1.1);
+}
+.Card_Background_4 {
+  background-image: url("https://img.freepik.com/free-vector/hand-drawn-christmas-pattern-design_23-2149757751.jpg?w=740&t=st=1704391947~exp=1704392547~hmac=4d37de495c6785fdd7c3b90b3099200e99e181d7f46e9f50d672b02e273cd86a");
+  border-radius: 20px;
+  transition: transform 1s;
+}
+.Card_Background_4:hover {
+  transform: scale(1.1);
+}
+.Card_Background_5 {
+  background-image: url("https://img.freepik.com/premium-photo/crumpled-brown-paper-full-frame_116441-26196.jpg?w=740");
+  border-radius: 20px;
+  transition: transform 1s;
+}
+.Card_Background_5:hover {
+  transform: scale(1.1);
+}
+
+.Card_Background_6 {
+  background-image: url("https://img.freepik.com/free-vector/vintage-christmas-pattern_23-2148775540.jpg?w=740&t=st=1704393631~exp=1704394231~hmac=67b6ab070d1781e18e19214274494c75461b24fa3afa84d767c1a4bb4716c34f");
+  border-radius: 20px;
+  transition: transform 1s;
+}
+.Card_Background_6:hover {
+  transform: scale(1.1);
+}
+.Card_Background_7 {
+  background-image: url("https://img.freepik.com/free-vector/flat-winter-season-pattern-design_23-2149948640.jpg?w=740&t=st=1704394441~exp=1704395041~hmac=9c62b7cdf2be31b59578be12a27853c25f335413c7fe6dda0c589674455e9081");
+  border-radius: 20px;
+  transition: transform 1s;
+}
+.Card_Background_7:hover {
+  transform: scale(1.1);
+}
+.Card_Background_8 {
+  background-image: url("https://img.freepik.com/free-photo/golden-bow-ribbons-green-background_23-2147961659.jpg?w=1060&t=st=1704394479~exp=1704395079~hmac=dc339195069d9f92327f3ad3af9ceedbe43679dcf356be4065d4c6c4ca8e0366");
+  border-radius: 20px;
+  transition: transform 1s;
+}
+.Card_Background_8:hover {
+  transform: scale(1.1);
+}
+.Card_Background_9 {
+  background-image: url("https://img.freepik.com/premium-vector/seamless-pattern-gift-boxes-gray-red-white_444390-5607.jpg?w=740");
+  border-radius: 20px;
+  transition: transform 1s;
+}
+.Card_Background_9:hover {
+  transform: scale(1.1);
+}
+
+.Card_Background_10 {
+  background-image: url("https://img.freepik.com/free-vector/cute-christmas-pattern-with-handdrawn-elements_69286-307.jpg?w=1380&t=st=1704394561~exp=1704395161~hmac=ab5f5c340c900a68c8c901f998bf30b68dbf7314250a4296cbaf036891b1d2c0");
+  border-radius: 20px;
+  transition: transform 1s;
+}
+.Card_Background_10:hover {
+  transform: scale(1.1);
+}
+.Card_Background_11 {
+  background-image: url("https://img.freepik.com/premium-vector/seamless-pattern-with-gift-boxes-vector-background-fabric-print-wrapping-paper-design_182787-181.jpg?w=740");
+  border-radius: 20px;
+  transition: transform 1s;
+}
+.Card_Background_11:hover {
+  transform: scale(1.1);
+}
+
+.Card_Background_12 {
+  background-image: url("https://img.freepik.com/premium-vector/vector-seamless-pattern-with-holly-berries_182787-1268.jpg?w=740");
+  border-radius: 20px;
+  transition: transform 1s;
+}
+.Card_Background_12:hover {
+  transform: scale(1.1);
+}
+.Card_Background_13 {
+  background-image: url("https://img.freepik.com/free-vector/red-ribbon-gift-bow-with-polka-dot-vintage-background_1048-14494.jpg?w=740&t=st=1704399076~exp=1704399676~hmac=4243cd583cc8a4893172a370d866d8965f99e72ece852d86e30d024fd02b9c3b");
+  border-radius: 20px;
+  transition: transform 1s;
+}
+.Card_Background_13:hover {
+  transform: scale(1.1);
+}
+
+.Card_Background_14 {
+  background-image: url("https://img.freepik.com/free-vector/seamless-surprise-gift-box-design-template-different-rotation-present-objects-vector_90220-2178.jpg?w=740&t=st=1704399116~exp=1704399716~hmac=fa42496adac273feeedcfd7a20446fbe44f31b0ff520cdd818e42b76a4b2f241");
+  border-radius: 20px;
+  transition: transform 1s;
+}
+.Card_Background_14:hover {
+  transform: scale(1.1);
+}
+
+.Card_Background_15 {
+  background-image: url("https://img.freepik.com/premium-vector/vector-seamless-pattern-with-gift-boxes-stars_641598-269.jpg?w=740");
+  border-radius: 20px;
+  transition: transform 1s;
+}
+.Card_Background_15:hover {
+  transform: scale(1.1);
+}
+.Card_Background_16 {
+  background-image: url("https://img.freepik.com/premium-vector/seamless-pattern-gift-boxes-with-bows-different-patterns-blue-white-background_444390-18326.jpg?w=740");
+  border-radius: 20px;
+  transition: transform 1s;
+}
+.Card_Background_16:hover {
+  transform: scale(1.1);
+}
+.Card_Background_17 {
+  background-image: url("https://img.freepik.com/premium-photo/flat-lay-light-green-hues-with-wrapped-gift-boxes-decorated-with-eucalyptus-twigs-copy-space_87646-4044.jpg?w=1060");
+  border-radius: 20px;
+  transition: transform 1s;
+}
+.Card_Background_17:hover {
+  transform: scale(1.1);
+}
+
+.Card_Background_18 {
+  background-image: url("https://img.freepik.com/premium-vector/seamless-pattern-gift-boxes-with-bows-different-patterns-blue-white-background_444390-18326.jpg?w=740");
+  border-radius: 20px;
+  transition: transform 1s;
+}
+.Card_Background_18:hover {
+  transform: scale(1.1);
+}
+.Card_Background_19 {
+  background-image: url("https://img.freepik.com/premium-vector/vector-seamless-pattern-with-gift-boxes-stars_641598-269.jpg?w=740");
+  border-radius: 20px;
+  transition: transform 1s;
+}
+.Card_Background_19:hover {
+  transform: scale(1.1);
+}
+.Card_Background_20 {
+  background-image: url("https://img.freepik.com/premium-vector/vector-seamless-pattern-with-rainbow_641598-227.jpg?w=740");
+  border-radius: 20px;
+  transition: transform 1s;
+}
+.Card_Background_20:hover {
+  transform: scale(1.1);
+}
+.Card_Background_21 {
+  background-image: url("https://img.freepik.com/free-photo/top-view-decorative-christmas-elements-compositional-pattern_23-2149172315.jpg?w=1060&t=st=1704399514~exp=1704400114~hmac=a55bf07b16b0af5880d75df52075d3238e58c7baa0b48694307560fc5fe7a374");
+  border-radius: 20px;
+  transition: transform 1s;
+}
+.Card_Background_21:hover {
+  transform: scale(1.1);
+}
+.Card_Background_22 {
+  background-image: url("https://img.freepik.com/premium-vector/happy-birthday-pattern_48304-31.jpg?w=740");
+  border-radius: 20px;
+  transition: transform 1s;
+}
+.Card_Background_22:hover {
+  transform: scale(1.1);
+}
+.Card_Background_23 {
+  background-image: url("https://img.freepik.com/free-vector/blurred-christmas-background-with-red-ribbon_1017-1342.jpg?w=740&t=st=1704399672~exp=1704400272~hmac=5eb016242bd19853bbb835693898761b39f75c8d72b1b6b3ce93f609629c653f");
+  border-radius: 20px;
+  transition: transform 1s;
+}
+.Card_Background_23:hover {
+  transform: scale(1.1);
+}
+.Card_Background_24 {
+  background-image: url("https://img.freepik.com/free-vector/christmas-background-trees-with-different-designs_1156-818.jpg?w=740&t=st=1704402647~exp=1704403247~hmac=b9e57667e92b11f0ef8a957e9d0e5ec84cc5a87ae65fe0b08499b87b08327935");
+  border-radius: 20px;
+  transition: transform 1s;
+}
+
+.Card_Background_24:hover {
+  transform: scale(1.1);
+}
